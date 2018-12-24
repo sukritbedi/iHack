@@ -66,3 +66,22 @@
 	  padding: 15% 10%;
   }
 }
+
+.inner{
+  padding: 50px 10%;
+}
+
+#cont1, #cont3, #cont5{
+  background-color: #f6f6f6;
+}
+
+#cont2, #cont4{
+  background-color: white;
+}
+
+h1{
+  color: #666;
+  font-size: 36px;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
